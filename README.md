@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @huseyineskan. I know Html, Css(Sass, Scss), Javascript,little Php and WordPress.
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning front-end.
+- 🌱 I believe in the power of continuous learning.
 - 📫 How to reach me huseyineskan01@gmail.com
 - Portfolio : [@heskancom](https://instagram.com/heskancom)
 
